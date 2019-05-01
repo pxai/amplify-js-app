@@ -2,7 +2,9 @@
   "name": "amplify-js-app",
   "version": "1.0.0",
   "description": "Amplify JavaScript Example",
-  "dependencies": {},
+  "dependencies": {
+    "aws-amplify": "^1.1.26"
+  },
   "devDependencies": {
     "webpack": "^4.17.1",
     "webpack-cli": "^3.1.0",
