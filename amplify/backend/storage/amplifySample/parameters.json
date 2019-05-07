@@ -1,0 +1,7 @@
+{
+    "tableName": "amplifySample",
+    "partitionKeyName": "name",
+    "partitionKeyType": "S",
+    "sortKeyName": "description",
+    "sortKeyType": "S"
+}
